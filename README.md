@@ -1,7 +1,9 @@
 # Customer_Segmentaion_Arvato
+#### Note: The python notebook is in two parts. ‘Final Model.ipynb’ contains most of the work including data preprocessing, visualtization, unsupervised learning, and some of supervised learning. The second notebook ‘Supervised_Feature_Selection.ipynb’ includes supervised learning with feature selection/scale on the data. This was divided to give due attention to details for supervised learning. 
+
 # Project Overview: 
 Arvato-Bertelsmann financial solutions company is headquartered in Germany; it provides customer support to various companies in different domain. Arvato-Bertelsmann uses latest technology to help their customers in the best way possible. In this project, I will be using data provided by Arvato to determine segment of population who are more likely to become customers at a German mail-order company.
-Note: The python notebook is in two parts. ‘Final Model.ipynb’ contains most of the work including data preprocessing, visualtization, unsupervised learning, and some of supervised learning. The second notebook ‘Supervised_Feature_Selection.ipynb’ includes supervised learning with feature selection/scale on the data. This was divided to give due attention to details for supervised learning. 
+
 # Data Overview:
 There are four differest datasets provided and two excel sheets to provide additional information about the data.
 The four separate datasets are listed below with brief descriptions:
