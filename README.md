@@ -1,4 +1,4 @@
-# Customer_Segmentaion_Arvato
+# Customer_Segmentation_Arvato
 #### Note: The python notebook is in two parts. ‘Final Model.ipynb’ contains most of the work including data preprocessing, visualtization, unsupervised learning, and some of supervised learning. The second notebook ‘Supervised_Feature_Selection.ipynb’ includes supervised learning with feature selection/scale on the data. This was divided to give due attention to details for supervised learning. 
 
 # Project Overview: 
