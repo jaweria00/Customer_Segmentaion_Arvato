@@ -17,7 +17,7 @@ There are two other excel sheets which provide additional attributes to the data
 •	DIAS Attributes - Values 2017.xlsx:   detailed mapping of data values for each feature in alphabetical order.
 
 ## Libraries:
-Missingno and seaborn for visualizing the data; matplotlib.pyplot, pandas, numpy, sklearn for algorithms and hyperparameter tuning. 
+Missingno and seaborn libraries are used for visualizing the data; matplotlib.pyplot, pandas, numpy, sklearn for algorithms and hyperparameter tuning. 
 # Data Preprocessing: 
 Clean data function is created to map different abnormalities in columns and transform them accordingly. Non-numeric data is one hot encoded, missing data is filled with mean values and some columns with insignificant are dropped.  
 # Unsupervised Learning:
